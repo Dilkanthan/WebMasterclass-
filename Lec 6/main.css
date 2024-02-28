@@ -1,0 +1,16 @@
+h1 {
+    color:red;
+}
+
+subheading {
+    color:blue;
+}
+
+.content {
+    color:aqua;
+
+/* border */
+    border: 1px; solid red;
+
+}
+
