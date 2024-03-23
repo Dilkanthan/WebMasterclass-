@@ -1,0 +1,12 @@
+h1 {
+max-width 600px;
+background-color: aqua;
+
+text-decoration: line-through;
+text-transform: uppercase;
+letter-spacing: 5px;
+text-shadow: 2px 2px 2px red;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: italic;
+font-weight: 600;
+}
